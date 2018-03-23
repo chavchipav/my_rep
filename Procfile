@@ -1,1 +1,1 @@
-web: python tel_bot.py
+web: python tel_bot.py -p $PORT
